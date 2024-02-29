@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+  jpa:
+    generate-ddl: true
+telegrambots:
+  enabled: true
+telegram:
+  bot:
+    webhook-path: path
+    name: name
+    token: token
