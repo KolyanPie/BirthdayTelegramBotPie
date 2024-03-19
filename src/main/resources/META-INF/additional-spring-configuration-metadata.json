@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "telegrambots.enabled",
+      "type": "java.lang.String",
+      "description": "flag for enabling telegram bots api."
+    }
+  ]
+}
